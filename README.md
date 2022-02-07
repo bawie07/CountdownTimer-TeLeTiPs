@@ -39,13 +39,13 @@ Example:
 ```
 <p align="center">
 <img src="https://telegra.ph/file/432ce18d60b1f07294d50.jpg">
-<p>
+<p> 
  
 ## Deployment Methods
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/teletips/CountdownTimer-TeLeTiPs)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bawie07/CountdownTimer-TeLeTiPs)
     
 ## Credits
 - [TeLe TiPs](https://github.com/teletips)
